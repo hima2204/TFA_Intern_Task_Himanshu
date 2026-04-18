@@ -48,6 +48,7 @@ Even though the API call may fail, the full structure (prompt design, request fl
 ## Project Structure is 
 backend/
   server.js
+  part3_server.js
   package.json
 
 frontend/
